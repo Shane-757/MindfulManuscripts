@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MindfulManuscripts/static/css/main.7acaea2f.css",
-    "main.js": "/MindfulManuscripts/static/js/main.07d3183d.js",
+    "main.js": "/MindfulManuscripts/static/js/main.255cb85c.js",
     "index.html": "/MindfulManuscripts/index.html",
     "main.7acaea2f.css.map": "/MindfulManuscripts/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/MindfulManuscripts/static/js/main.07d3183d.js.map"
+    "main.255cb85c.js.map": "/MindfulManuscripts/static/js/main.255cb85c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.255cb85c.js"
   ]
 }
